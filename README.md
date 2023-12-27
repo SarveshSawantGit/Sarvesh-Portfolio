@@ -1,1 +1,1 @@
-# Sarvesh-Portfolio
+Adding index.html, style.css and script.js
